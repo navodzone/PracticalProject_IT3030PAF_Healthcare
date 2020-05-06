@@ -84,7 +84,7 @@
                         Hospital Name
                         <input id="hospitalName" name="hospitalName" type="text"
                                class="form-control form-control-sm">
-                        <br> Hospital Email Address
+                        <br> Hospital Address
                         <input id="hospitalAddress" name="hospitalAddress" type="text"
                                class="form-control form-control-sm">
                         <br> Phone Number
